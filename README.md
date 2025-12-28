@@ -115,8 +115,8 @@ The overlay display is controlled by the `overlayOptions.trigger` property, whic
 
 ## Demo
 
-Check out the [live demo](https://abdoelsaed.github.io/react-ol-choropleth/) to see it in action.
+Check out the [live demo](https://a-saed.github.io/react-ol-choropleth/) to see it in action.
 
 ## License
 
-MIT © [Abdulrhman El-Saed](https://github.com/AbdoElsaed)
+MIT © [Abdulrhman El-Saed](https://github.com/a-saed)
