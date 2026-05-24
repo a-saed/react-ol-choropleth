@@ -83,7 +83,7 @@ const Controls = memo(
       <div className="sidebar">
         <div className="github-link">
           <a
-            href="https://github.com/AbdoElsaed/react-ol-choropleth"
+            href="https://github.com/a-saed/react-ol-choropleth"
             target="_blank"
             rel="noopener noreferrer"
           >

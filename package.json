@@ -75,10 +75,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AbdoElsaed/react-ol-choropleth"
+    "url": "https://github.com/a-saed/react-ol-choropleth"
   },
   "bugs": {
-    "url": "https://github.com/AbdoElsaed/react-ol-choropleth/issues"
+    "url": "https://github.com/a-saed/react-ol-choropleth/issues"
   },
-  "homepage": "https://github.com/AbdoElsaed/react-ol-choropleth#readme"
+  "homepage": "https://github.com/a-saed/react-ol-choropleth#readme"
 }
